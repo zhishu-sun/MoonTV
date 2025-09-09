@@ -1,6 +1,34 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "bdy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度云资源"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼资源"
+    },
+    "gszy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "name": "光速资源"
+    },
+    "jszy": {
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "name": "急速资源"
+    },
+    "lzzy": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源"
+    },
+    "ffzy": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源"
+    },
+    "hnzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛资源"
+    },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
@@ -23,7 +51,7 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "ffzy": {
+    "ffys": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
@@ -56,6 +84,10 @@
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
+    },
+    "mdys": {
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "name": "魔都影视"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
